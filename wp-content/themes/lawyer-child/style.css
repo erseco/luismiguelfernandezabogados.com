@@ -1,0 +1,14 @@
+/*
+Theme Name: Lawyer Child
+Description: Child theme for Lawyer
+Author: zozothemes
+Template: lawyer
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+/*Child Theme Style Code Here*/
+
+
+.header-contact-details li.header-phone a:hover{
+    color:#fff;
+}
